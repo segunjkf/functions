@@ -10,6 +10,7 @@ abs(-12.4)
 
 floor(5)
 
+
 floor(4.8)
 
 ## logs returns the logarithm of a given number in a given base
@@ -27,6 +28,10 @@ ceil(5.7)
 
 parseint("100", 10)
 
+
 parseint("FF", 16)
 
+
 parseint("-10", 16)
+
+
